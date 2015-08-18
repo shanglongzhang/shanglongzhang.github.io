@@ -1,11 +1,11 @@
 # Site settings
-title: Shanglong Zhang's Personal Website
+title: Shanglong Zhang Personal Website
 email: shanglongzhang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This website is my personal blog.
 baseurl: "blog" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: I don't have a twitter_account.
+twitter_username: I do not have a twitter_account.
 github_username:  shanglongzhang
 
 # Build settings
