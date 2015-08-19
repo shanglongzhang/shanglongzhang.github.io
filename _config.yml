@@ -1,12 +1,13 @@
 # Site settings
-title: Shanglong Zhang Personal Website
-email: shanglongzhang@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  This website is my personal blog.
-baseurl: "blog" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: I do not have a twitter_account.
-github_username:  shanglongzhang
+title: Family
+email: shanglongzhang@gmail.com 
+author: John Otander
+description: "A website to record life for Ellie and Shanglong."
+baseurl: ""
+url: "网站url，如:http://pixyll.com"
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+#每页文章数量
+paginate: 3
